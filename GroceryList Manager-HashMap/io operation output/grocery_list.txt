@@ -1,0 +1,6 @@
+***** Grocery Items ***** 
+Name : soaps | Price : 30.0 | Quantity : 40.0
+Name : shampoo | Price : 5.0 | Quantity : 100.0
+Name : eggs | Price : 35.0 | Quantity : 10.0
+Name : bread | Price : 30.0 | Quantity : 25.0
+Name : biscuits | Price : 50.0 | Quantity : 80.0
